@@ -1,11 +1,16 @@
 <html>
-<head>
-<title>github readme</title>
-</head>
-<body>
+<body 
+  style="text-align:center;"
+  >
 
-<h1>Hi there 👋 I'm Eva , please call me Effie!</h1>
-<p > I am a freelance software developer and I try to learn somethign new everyday!  </p>
+   <h1 style="background-color:#8FBC8F;">Hi there 👋 I'm Eva, please call me Effie!</h1>
+   <p > I am a freelance software developer and I try to learn somethign new everyday! </p>
+<div style="display:flex; flex-direction:column;">
+  <div>1</div>
+  <div>2</div>
+  <div>3</div>
+  
+</div>
 
 </body>
 </html>
