@@ -23,4 +23,6 @@
 <h4>🌱 I’m currently learning ...</h4>
 <div>
    <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" width="90px" height="30px" /> 
+   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" width="90px" height="30px" /> 
+   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" width="90px" height="30px" /> 
 </div>
