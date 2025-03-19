@@ -1,6 +1,9 @@
+
+![Background]('/Screenshot 2024-08-29 112152.png')
+
 <html>
 <body 
-  style="text-align:center;"
+  style="background-image:url('Screenshot 2024-08-29 112152.png');"
   >
 
    <h1 style="background-color:#8FBC8F;">Hey👋 I'm Eva, please call me Effie!</h1>
