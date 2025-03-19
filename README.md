@@ -1,7 +1,9 @@
 
    # Hey👋 I'm Eva, please call me Effie!</h1>
   <p> I am a freelance software developer and I try to learn somethign new everyday! </p>
-  <p> 🔥 Currently I am working on developing web apps for privite clients and am working as a teaching assistant for a software engineering bootcamp </p>
+  <p> 🔥 Currently I am working on developing web apps for privite clients and am working as a teaching assistant for a software engineering bootcamp! </p>
+  <p> 🧭 Ienjoy front-end and full-stack development. </p>
+  <p> 🫶 My favorite part of programing is to create animaations! </p>
    <h1> Experience: <h1>
  <div style="background-color: lightblue;">
    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="30px" />
