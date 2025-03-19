@@ -1,9 +1,9 @@
 
    # Hey👋 I'm Eva, please call me Effie!</h1>
-  <p> I am a freelance software developer and I try to learn somethign new everyday! </p>
+  <p> I am a freelance software developer and I try to learn something new everyday! </p>
   <p> 🔥 Currently I am working on developing web apps for privite clients and am working as a teaching assistant for a software engineering bootcamp! </p>
-  <p> 🧭 Ienjoy front-end and full-stack development. </p>
-  <p> 🫶 My favorite part of programing is to create animaations! </p>
+  <p> 🧭 I enjoy front-end and full-stack development. </p>
+  <p> 🫶 My favorite part of programing is to create animations. my favorite framework is react 🌟. my favorite database is MongoDB 💻 </p>
    <h1> Experience: <h1>
  <div style="background-color: lightblue;">
    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="30px" />
@@ -14,6 +14,7 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="30px" />
    <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" width="90px" height="30px" />
    <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" width="90px" height="30px" />
+   <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge" width="90px" height="30px" />
    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="40px" />
    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40px" />
    <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge" width="90px" height="30px" />
